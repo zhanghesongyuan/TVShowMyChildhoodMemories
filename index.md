@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 港剧tv-我的童年回忆
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/TVShowMyChildhoodMemories/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在我们成长过程中，你是否也有过这种奇妙的感受，那些陪伴着我们度过快乐的童年的港剧，在童年时候对剧情和精彩片段的理解和感受是那样的纯粹童真。而当我们长大后，再翻看这些曾经充满回忆的经典港剧时，常常会有另一番感受，似乎明白了当初的疑惑。例如西游记中的孙悟空为什么会大闹天宫，这仅仅只是他顽皮的性格吗？显然现在的我不会单纯的这么认为。如果你也有这种奇妙的感受，你可以利用这款应用，将你童年时看过的港剧的感受和长大时候的你的感受记录起来，对比你回忆中的自己，你常常会发现有意外的收获。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/TVShowMyChildhoodMemories/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
